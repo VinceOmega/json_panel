@@ -1,0 +1,376 @@
+{
+    "EntryDate": "2016-11-16 01:22:20 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "pageview",
+        "REMOTE_HOST": "82.80.230.228",
+        "URL": "/destinations/caribbean/st-barts.html",
+        "HTTP_REFERER": "http://www.yourescapeawaits.com/cruises/10-night-caribbean-cruise-5.html",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.73.11 (KHTML, like Gecko) Version/6.1.1 Safari/537.73.11",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "www.yourescapeawaits.com"
+    }]
+}, {
+    "EntryDate": "2016-11-16 01:33:11 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "hotelsbots",
+        "REMOTE_HOST": "184.154.139.54",
+        "URL": "/common/sign-in.html",
+        "HTTP_REFERER": "",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "SiteLockSpider [en] (WinNT; I ;Nav)",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "TE, close",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "thecarefreetravel.com"
+    }]
+}, {
+    "EntryDate": "2016-11-16 01:46:10 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "hotelsbots",
+        "REMOTE_HOST": "184.154.36.168",
+        "URL": "/hotels-details.html",
+        "HTTP_REFERER": "",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "SiteLockSpider [en] (WinNT; I ;Nav)",
+        "QUERY_STRING": "Display=Rooms&SearchObject=%7B%22HotelId%22%3A536319%2C%22rooms%22%3A1%2C%22totalChildren%22%3A0%2C%22numberOfResults%22%3A3%2C%22departureDate%22%3A%2211%2F17%2F2016%22%2C%22SortType%22%3A%22PROMO%22%2C%22roomGroup%22%3A%5B%7B%22numberOfChildren%22%3A0%2C%22numberOfAdults%22%3A1%7D%5D%2C%22arrivalDate%22%3A%2211%2F16%2F2016%22%2C%22totalAdults%22%3A1%2C%22regionId%22%3A935%2C%22DestinationString%22%3A%22Cancun%2C%20Quintana%20Roo%2C%20Mexico%22%7D",
+        "HTTP_CONNECTION": "TE, close",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "oldworldflavors.com"
+    }]
+}, {
+    "EntryDate": "2016-11-16 02:08:10 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "hotelsbots",
+        "REMOTE_HOST": "184.154.36.164",
+        "URL": "/hotels-details.html",
+        "HTTP_REFERER": "",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "SiteLockSpider [en] (WinNT; I ;Nav)",
+        "QUERY_STRING": "Display=Rooms&SearchObject=%7B%22HotelId%22%3A545429%2C%22rooms%22%3A1%2C%22totalChildren%22%3A0%2C%22numberOfResults%22%3A3%2C%22departureDate%22%3A%2211%2F17%2F2016%22%2C%22SortType%22%3A%22PROMO%22%2C%22roomGroup%22%3A%5B%7B%22numberOfChildren%22%3A0%2C%22numberOfAdults%22%3A1%7D%5D%2C%22arrivalDate%22%3A%2211%2F16%2F2016%22%2C%22totalAdults%22%3A1%2C%22regionId%22%3A2114%2C%22DestinationString%22%3A%22London%2C%20England%2C%20United%20Kingdom%22%7D",
+        "HTTP_CONNECTION": "TE, close",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "oaklandtravelagency.com"
+    }]
+}, {
+    "EntryDate": "2016-11-16 03:06:43 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "hotelsbots",
+        "REMOTE_HOST": "184.154.36.167",
+        "URL": "/hotels-details.html",
+        "HTTP_REFERER": "",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "SiteLockSpider [en] (WinNT; I ;Nav)",
+        "QUERY_STRING": "Display=Rooms&SearchObject=%7B%22HotelId%22%3A115902%2C%22rooms%22%3A1%2C%22totalChildren%22%3A0%2C%22numberOfResults%22%3A3%2C%22departureDate%22%3A%2211%2F17%2F2016%22%2C%22SortType%22%3A%22PROMO%22%2C%22roomGroup%22%3A%5B%7B%22numberOfChildren%22%3A0%2C%22numberOfAdults%22%3A1%7D%5D%2C%22arrivalDate%22%3A%2211%2F16%2F2016%22%2C%22totalAdults%22%3A1%2C%22regionId%22%3A2621%2C%22DestinationString%22%3A%22New%20York%2C%20New%20York%2C%20United%20States%20of%20America%22%7D",
+        "HTTP_CONNECTION": "TE, close",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "coupdetattravelconsulting.com"
+    }]
+}, {
+    "EntryDate": "2016-11-16 04:03:05 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "pageview",
+        "REMOTE_HOST": "82.80.249.192",
+        "URL": "/destinations/europe/england.html",
+        "HTTP_REFERER": "http://visitcft.com/destinations/europe/england.html",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36",
+        "QUERY_STRING": "SelectedVideo=c5c46729-88d8-e411-8b9f-0050568e420d",
+        "HTTP_CONNECTION": "",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "visitcft.com"
+    }]
+}, {
+    "EntryDate": "2016-11-16 06:48:48 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "hotelsbots",
+        "REMOTE_HOST": "69.175.22.218",
+        "URL": "/hotels-details.html",
+        "HTTP_REFERER": "",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "SiteLockSpider [en] (WinNT; I ;Nav)",
+        "QUERY_STRING": "SearchObject=%257B%2522HotelId%2522%253A215193%252C%2522rooms%2522%253A1%252C%2522totalChildren%2522%253A0%252C%2522numberOfResults%2522%253A3%252C%2522departureDate%2522%253A%252211%252F11%252F2016%2522%252C%2522SortType%2522%253A%2522PROMO%2522%252C%2522roomGroup%2522%253A%255B%257B%2522numberOfChildren%2522%253A0%252C%2522numberOfAdults%2522%253A1%257D%255D%252C%2522arrivalDate%2522%253A%252211%252F10%252F2016%2522%252C%2522totalAdults%2522%253A1%252C%2522regionId%2522%253A3023%252C%2522DestinationString%2522%253A%2522Rome%252C%2520Italy%2522%257D",
+        "HTTP_CONNECTION": "TE, close",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "daydreamergotravel.com"
+    }]
+}, {
+    "EntryDate": "2016-11-16 07:53:28 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "hotelsbots",
+        "REMOTE_HOST": "184.154.164.186",
+        "URL": "/common/sign-in.html",
+        "HTTP_REFERER": "",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "SiteLockSpider [en] (WinNT; I ;Nav)",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "TE, close",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "trandalltravel.com"
+    }]
+}, {
+    "EntryDate": "2016-11-16 08:32:06 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "hotelsbots",
+        "REMOTE_HOST": "184.154.139.49",
+        "URL": "/hotels-details.html",
+        "HTTP_REFERER": "",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "SiteLockSpider [en] (WinNT; I ;Nav)",
+        "QUERY_STRING": "Display=Rooms&SearchObject=%7B%22HotelId%22%3A432395%2C%22rooms%22%3A1%2C%22totalChildren%22%3A0%2C%22numberOfResults%22%3A3%2C%22departureDate%22%3A%2211%2F17%2F2016%22%2C%22SortType%22%3A%22PROMO%22%2C%22roomGroup%22%3A%5B%7B%22numberOfChildren%22%3A0%2C%22numberOfAdults%22%3A1%7D%5D%2C%22arrivalDate%22%3A%2211%2F16%2F2016%22%2C%22totalAdults%22%3A1%2C%22regionId%22%3A2693%2C%22DestinationString%22%3A%22Orlando%2C%20Florida%2C%20United%20States%20of%20America%22%7D",
+        "HTTP_CONNECTION": "TE, close",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "travelexplorerelax.com"
+    }]
+}, {
+    "EntryDate": "2016-11-16 08:35:29 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "pageview",
+        "REMOTE_HOST": "82.80.249.159",
+        "URL": "/request-quote.html",
+        "HTTP_REFERER": "http://www.travelsharks.com/cruises/62-night-caribbean-cruise.html",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36",
+        "QUERY_STRING": "DealURL=62-night-caribbean-cruise&DealType=Cruise&Dates=6/17/17-8/18/17&Starting=34699",
+        "HTTP_CONNECTION": "",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "travelsharks.com"
+    }]
+}, {
+    "EntryDate": "2016-11-16 09:08:45 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "pageview",
+        "REMOTE_HOST": "82.80.230.228",
+        "URL": "/destinations/north-america/united-states/new-york/albany.html",
+        "HTTP_REFERER": "",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "Keep-Alive",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "travelsharks.com"
+    }]
+}, {
+    "EntryDate": "2016-11-16 10:57:41 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "pageview",
+        "REMOTE_HOST": "82.80.249.192",
+        "URL": "/cruises/6-night-mediterranean-cruise-29.html",
+        "HTTP_REFERER": "http://www.goneagaintravel.com/news/msc-cruises-appoints-president-chairman-to-lead-north-american-growth.html",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "www.goneagaintravel.com"
+    }]
+}, {
+    "EntryDate": "2016-11-16 11:11:33 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "hotelsbots",
+        "REMOTE_HOST": "157.55.39.143",
+        "URL": "/common/sign-in.html",
+        "HTTP_REFERER": "",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "Keep-Alive",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "seafaringjourneys.com"
+    }]
+}, {
+    "EntryDate": "2016-11-16 15:32:23 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "hotelsbots",
+        "REMOTE_HOST": "184.154.139.50",
+        "URL": "/hotels-search.html",
+        "HTTP_REFERER": "",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "SiteLockSpider [en] (WinNT; I ;Nav)",
+        "QUERY_STRING": "SearchObject=%7B%22hotelId%22%3A0%2C%22totalChildren%22%3A0%2C%22departureDate%22%3A%2211%2F17%2F2016%22%2C%22roomGroup%22%3A%5B%7B%22numberOfChildren%22%3A0%2C%22numberOfAdults%22%3A1%7D%5D%2C%22arrivalDate%22%3A%2211%2F16%2F2016%22%2C%22regionId%22%3A184245%2C%22DestinationString%22%3A%22Hong%20Kong%2C%20Hong%20Kong%22%2C%22currencyCode%22%3A%22USD%22%2C%22rooms%22%3A1%2C%22numberOfResults%22%3A3%2C%22locale%22%3A%22en%5Fus%22%2C%22SortType%22%3A%22PROMO%22%2C%22totalAdults%22%3A1%7D",
+        "HTTP_CONNECTION": "TE, close",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "ahhvacations.com"
+    }]
+}, {
+    "EntryDate": "2016-11-16 16:45:24 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "pageview",
+        "REMOTE_HOST": "82.80.249.159",
+        "URL": "/destinations/asia/cambodia.html",
+        "HTTP_REFERER": "http://www.northstartravels.com/cruises/180-night-world-cruise.html",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.71 (KHTML, like Gecko) Version/6.1 Safari/537.71",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "www.northstartravels.com"
+    }]
+}, {
+    "EntryDate": "2016-11-16 17:04:26 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "hotelsbots",
+        "REMOTE_HOST": "184.154.139.16",
+        "URL": "/hotels-details.html",
+        "HTTP_REFERER": "",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "SiteLockSpider [en] (WinNT; I ;Nav)",
+        "QUERY_STRING": "SearchObject=%7B%22HotelId%22%3A261835%2C%22rooms%22%3A1%2C%22totalChildren%22%3A0%2C%22numberOfResults%22%3A3%2C%22departureDate%22%3A%2211%2F17%2F2016%22%2C%22SortType%22%3A%22PROMO%22%2C%22roomGroup%22%3A%5B%7B%22numberOfChildren%22%3A0%2C%22numberOfAdults%22%3A1%7D%5D%2C%22arrivalDate%22%3A%2211%2F16%2F2016%22%2C%22totalAdults%22%3A1%2C%22regionId%22%3A935%2C%22DestinationString%22%3A%22Cancun%2C%20Quintana%20Roo%2C%20Mexico%22%7D",
+        "HTTP_CONNECTION": "TE, close",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "pinnacletrips.com"
+    }]
+}, {
+    "EntryDate": "2016-11-16 17:24:01 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "hotelsbots",
+        "REMOTE_HOST": "184.154.139.54",
+        "URL": "/hotels-details.html",
+        "HTTP_REFERER": "",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "SiteLockSpider [en] (WinNT; I ;Nav)",
+        "QUERY_STRING": "SearchObject=%7B%22HotelId%22%3A545429%2C%22rooms%22%3A1%2C%22totalChildren%22%3A0%2C%22numberOfResults%22%3A3%2C%22departureDate%22%3A%2211%2F17%2F2016%22%2C%22SortType%22%3A%22PROMO%22%2C%22roomGroup%22%3A%5B%7B%22numberOfChildren%22%3A0%2C%22numberOfAdults%22%3A1%7D%5D%2C%22arrivalDate%22%3A%2211%2F16%2F2016%22%2C%22totalAdults%22%3A1%2C%22regionId%22%3A2114%2C%22DestinationString%22%3A%22London%2C%20England%2C%20United%20Kingdom%22%7D",
+        "HTTP_CONNECTION": "TE, close",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "dreamzscapetravel.com"
+    }]
+}, {
+    "EntryDate": "2016-11-16 17:50:18 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "hotelsbots",
+        "REMOTE_HOST": "107.6.137.74",
+        "URL": "/hotels-details.html",
+        "HTTP_REFERER": "",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "SiteLockSpider [en] (WinNT; I ;Nav)",
+        "QUERY_STRING": "SearchObject=%7B%22HotelId%22%3A218359%2C%22rooms%22%3A1%2C%22totalChildren%22%3A0%2C%22numberOfResults%22%3A3%2C%22departureDate%22%3A%2211%2F17%2F2016%22%2C%22SortType%22%3A%22PROMO%22%2C%22roomGroup%22%3A%5B%7B%22numberOfChildren%22%3A0%2C%22numberOfAdults%22%3A1%7D%5D%2C%22arrivalDate%22%3A%2211%2F16%2F2016%22%2C%22totalAdults%22%3A1%2C%22regionId%22%3A513%2C%22DestinationString%22%3A%22Barcelona%2C%20Spain%22%7D",
+        "HTTP_CONNECTION": "TE, close",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "pandora.travel"
+    }]
+}, {
+    "EntryDate": "2016-11-16 20:07:20 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "hotelsbots",
+        "REMOTE_HOST": "40.77.167.67",
+        "URL": "/common/sign-in.html",
+        "HTTP_REFERER": "",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "Keep-Alive",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "ritzvacation.com"
+    }]
+}, {
+    "EntryDate": "2016-11-16 20:36:23 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "hotelsbots",
+        "REMOTE_HOST": "184.154.36.179",
+        "URL": "/common/sign-in.html",
+        "HTTP_REFERER": "",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "SiteLockSpider [en] (WinNT; I ;Nav)",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "TE, close",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "prestigetourandtravel.com"
+    }]
+}, {
+    "EntryDate": "2016-11-16 21:17:58 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "hotelsbots",
+        "REMOTE_HOST": "184.154.139.47",
+        "URL": "/common/sign-in.html",
+        "HTTP_REFERER": "",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "SiteLockSpider [en] (WinNT; I ;Nav)",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "TE, close",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "tagalongtravels.com"
+    }]
+}, {
+    "EntryDate": "2016-11-16 22:16:40 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "hotelsbots",
+        "REMOTE_HOST": "184.154.139.52",
+        "URL": "/hotels-details.html",
+        "HTTP_REFERER": "",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "SiteLockSpider [en] (WinNT; I ;Nav)",
+        "QUERY_STRING": "SearchObject=%7B%22HotelId%22%3A624828%2C%22rooms%22%3A1%2C%22totalChildren%22%3A0%2C%22numberOfResults%22%3A3%2C%22departureDate%22%3A%2211%2F17%2F2016%22%2C%22SortType%22%3A%22PROMO%22%2C%22roomGroup%22%3A%5B%7B%22numberOfChildren%22%3A0%2C%22numberOfAdults%22%3A1%7D%5D%2C%22arrivalDate%22%3A%2211%2F16%2F2016%22%2C%22totalAdults%22%3A1%2C%22regionId%22%3A2734%2C%22DestinationString%22%3A%22Paris%2C%20France%22%7D",
+        "HTTP_CONNECTION": "TE, close",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "1-2travel-group.com"
+    }]
+}, {
+    "EntryDate": "2016-11-16 23:25:23 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "pageview",
+        "REMOTE_HOST": "82.80.230.228",
+        "URL": "/news/where-to-ski-this-spring-4.html",
+        "HTTP_REFERER": "http://www.sixlandstravel.com/destinations/canada/banff.html",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "sixlandstravel.com"
+    }]
+}, {
+    "EntryDate": "2016-11-16 23:41:01 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "pageview",
+        "REMOTE_HOST": "82.80.249.159",
+        "URL": "/request-quote.html",
+        "HTTP_REFERER": "http://www.mellovacations.com/cruises/5-night-bahamas-cruise-16.html",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:25.0) Gecko/20100101 Firefox/25.0",
+        "QUERY_STRING": "DealURL=5-night-bahamas-cruise-16&DealType=Cruise&Dates=11/15/17-11/20/17&Starting=434",
+        "HTTP_CONNECTION": "",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "mellovacations.com"
+    }]
+}, {
+    "EntryDate": "2016-11-16 23:48:52 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "hotelsbots",
+        "REMOTE_HOST": "69.175.59.186",
+        "URL": "/hotels-details.html",
+        "HTTP_REFERER": "",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "SiteLockSpider [en] (WinNT; I ;Nav)",
+        "QUERY_STRING": "SearchObject=%7B%22HotelId%22%3A265252%2C%22rooms%22%3A1%2C%22totalChildren%22%3A0%2C%22numberOfResults%22%3A3%2C%22departureDate%22%3A%2211%2F17%2F2016%22%2C%22SortType%22%3A%22PROMO%22%2C%22roomGroup%22%3A%5B%7B%22numberOfChildren%22%3A0%2C%22numberOfAdults%22%3A1%7D%5D%2C%22arrivalDate%22%3A%2211%2F16%2F2016%22%2C%22totalAdults%22%3A1%2C%22regionId%22%3A2008%2C%22DestinationString%22%3A%22Las%20Vegas%2C%20Nevada%2C%20United%20States%20of%20America%22%7D",
+        "HTTP_CONNECTION": "TE, close",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "irishcuetravel.com"
+    }]
+},

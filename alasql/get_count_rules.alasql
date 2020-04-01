@@ -1,0 +1,1 @@
+SELECT Rule, COUNT(Rule) as Total FROM ? GROUP BY Rule

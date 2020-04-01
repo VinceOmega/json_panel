@@ -1,0 +1,991 @@
+{
+	"EntryDate": "2016-11-17 01:14:35 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "hotelsbots",
+		"REMOTE_HOST": "107.6.137.74",
+		"URL": "/hotels-details.html",
+		"HTTP_REFERER": "",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "SiteLockSpider [en] (WinNT; I ;Nav)",
+		"QUERY_STRING": "Display=Rooms&SearchObject=%25257B%252522HotelId%252522%25253A172818%25252C%252522rooms%252522%25253A1%25252C%252522totalChildren%252522%25253A0%25252C%252522numberOfResults%252522%25253A3%25252C%252522departureDate%252522%25253A%25252210%25252F19%25252F2016%252522%25252C%252522SortType%252522%25253A%252522PROMO%252522%25252C%252522roomGroup%252522%25253A%25255B%25257B%252522numberOfChildren%252522%25253A0%25252C%252522numberOfAdults%252522%25253A1%25257D%25255D%25252C%252522arrivalDate%252522%25253A%25252210%25252F18%25252F2016%252522%25252C%252522totalAdult",
+		"HTTP_CONNECTION": "TE, close",
+		"REQUEST_METHOD": "GET",
+		"HTTP_HOST": "airplustravel.net"
+	}]
+}, {
+	"EntryDate": "2016-11-17 01:57:41 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "hotelsbots",
+		"REMOTE_HOST": "184.154.139.54",
+		"URL": "/common/sign-in.html",
+		"HTTP_REFERER": "",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "SiteLockSpider [en] (WinNT; I ;Nav)",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "TE, close",
+		"REQUEST_METHOD": "GET",
+		"HTTP_HOST": "thecarefreetravel.com"
+	}]
+}, {
+	"EntryDate": "2016-11-17 02:02:28 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "hotelsbots",
+		"REMOTE_HOST": "184.154.36.166",
+		"URL": "/hotels-search.html",
+		"HTTP_REFERER": "",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "SiteLockSpider [en] (WinNT; I ;Nav)",
+		"QUERY_STRING": "SearchObject=%7B%22hotelId%22%3A0%2C%22totalChildren%22%3A0%2C%22departureDate%22%3A%2211%2F18%2F2016%22%2C%22roomGroup%22%3A%5B%7B%22numberOfChildren%22%3A0%2C%22numberOfAdults%22%3A1%7D%5D%2C%22arrivalDate%22%3A%2211%2F17%2F2016%22%2C%22regionId%22%3A935%2C%22DestinationString%22%3A%22Cancun%2C%20Quintana%20Roo%2C%20Mexico%22%2C%22currencyCode%22%3A%22USD%22%2C%22rooms%22%3A1%2C%22numberOfResults%22%3A3%2C%22locale%22%3A%22en%5Fus%22%2C%22SortType%22%3A%22PROMO%22%2C%22totalAdults%22%3A1%7D",
+		"HTTP_CONNECTION": "TE, close",
+		"REQUEST_METHOD": "GET",
+		"HTTP_HOST": "oldworldflavors.com"
+	}]
+}, {
+	"EntryDate": "2016-11-17 03:14:19 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "hotelsbots",
+		"REMOTE_HOST": "184.154.139.22",
+		"URL": "/hotels-details.html",
+		"HTTP_REFERER": "",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "SiteLockSpider [en] (WinNT; I ;Nav)",
+		"QUERY_STRING": "Display=Rooms&SearchObject=%7B%22HotelId%22%3A483893%2C%22rooms%22%3A1%2C%22totalChildren%22%3A0%2C%22numberOfResults%22%3A3%2C%22departureDate%22%3A%2211%2F18%2F2016%22%2C%22SortType%22%3A%22PROMO%22%2C%22roomGroup%22%3A%5B%7B%22numberOfChildren%22%3A0%2C%22numberOfAdults%22%3A1%7D%5D%2C%22arrivalDate%22%3A%2211%2F17%2F2016%22%2C%22totalAdults%22%3A1%2C%22regionId%22%3A2734%2C%22DestinationString%22%3A%22Paris%2C%20France%22%7D",
+		"HTTP_CONNECTION": "TE, close",
+		"REQUEST_METHOD": "GET",
+		"HTTP_HOST": "coupdetattravelconsulting.com"
+	}]
+}, {
+	"EntryDate": "2016-11-17 04:52:43 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "hotelsbots",
+		"REMOTE_HOST": "207.46.13.96",
+		"URL": "/common/sign-in.html",
+		"HTTP_REFERER": "",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "Keep-Alive",
+		"REQUEST_METHOD": "GET",
+		"HTTP_HOST": "anywheretravcom.agentstudio.com"
+	}]
+}, {
+	"EntryDate": "2016-11-17 06:43:30 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "hotelsbots",
+		"REMOTE_HOST": "184.154.139.23",
+		"URL": "/hotels-details.html",
+		"HTTP_REFERER": "",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "SiteLockSpider [en] (WinNT; I ;Nav)",
+		"QUERY_STRING": "SearchObject=%25257B%252522HotelId%252522%25253A215193%25252C%252522rooms%252522%25253A1%25252C%252522totalChildren%252522%25253A0%25252C%252522numberOfResults%252522%25253A3%25252C%252522departureDate%252522%25253A%25252211%25252F11%25252F2016%252522%25252C%252522SortType%252522%25253A%252522PROMO%252522%25252C%252522roomGroup%252522%25253A%25255B%25257B%252522numberOfChildren%252522%25253A0%25252C%252522numberOfAdults%252522%25253A1%25257D%25255D%25252C%252522arrivalDate%252522%25253A%25252211%25252F10%25252F2016%252522%25252C%252522totalAdults%252522%25253A1%25252C%252522regionId%252522%25253A3023%25252C%252522DestinationString%252522%25253A%252522Rome%25252C%252520Italy%252522%25257D",
+		"HTTP_CONNECTION": "TE, close",
+		"REQUEST_METHOD": "GET",
+		"HTTP_HOST": "daydreamergotravel.com"
+	}]
+}, {
+	"EntryDate": "2016-11-17 08:18:08 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "hotelsbots",
+		"REMOTE_HOST": "68.180.231.33",
+		"URL": "/common/sign-in.html",
+		"HTTP_REFERER": "",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "GET",
+		"HTTP_HOST": "adventuretravel-inc.com"
+	}]
+}, {
+	"EntryDate": "2016-11-17 08:59:16 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "hotelsbots",
+		"REMOTE_HOST": "107.6.137.74",
+		"URL": "/hotels-details.html",
+		"HTTP_REFERER": "",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "SiteLockSpider [en] (WinNT; I ;Nav)",
+		"QUERY_STRING": "Display=Rooms&SearchObject=%7B%22HotelId%22%3A105302%2C%22rooms%22%3A1%2C%22totalChildren%22%3A0%2C%22numberOfResults%22%3A3%2C%22departureDate%22%3A%2211%2F18%2F2016%22%2C%22SortType%22%3A%22PROMO%22%2C%22roomGroup%22%3A%5B%7B%22numberOfChildren%22%3A0%2C%22numberOfAdults%22%3A1%7D%5D%2C%22arrivalDate%22%3A%2211%2F17%2F2016%22%2C%22totalAdults%22%3A1%2C%22regionId%22%3A660%2C%22DestinationString%22%3A%22Boston%2C%20Massachusetts%2C%20United%20States%20of%20America%22%7D",
+		"HTTP_CONNECTION": "TE, close",
+		"REQUEST_METHOD": "GET",
+		"HTTP_HOST": "echevarriatravel.com"
+	}]
+}, {
+	"EntryDate": "2016-11-17 09:05:26 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "hotelsbots",
+		"REMOTE_HOST": "207.46.13.96",
+		"URL": "/common/sign-in.html",
+		"HTTP_REFERER": "",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "Keep-Alive",
+		"REQUEST_METHOD": "GET",
+		"HTTP_HOST": "getawaytravelgroup.agentstudio.com"
+	}]
+}, {
+	"EntryDate": "2016-11-17 09:29:42 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "hotelsbots",
+		"REMOTE_HOST": "157.55.39.32",
+		"URL": "/common/sign-in.html",
+		"HTTP_REFERER": "",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "Keep-Alive",
+		"REQUEST_METHOD": "GET",
+		"HTTP_HOST": "indigobreeze.agentstudio.com"
+	}]
+}, {
+	"EntryDate": "2016-11-17 09:43:23 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "hotelsbots",
+		"REMOTE_HOST": "207.46.13.34",
+		"URL": "/common/sign-in.html",
+		"HTTP_REFERER": "",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "Keep-Alive",
+		"REQUEST_METHOD": "GET",
+		"HTTP_HOST": "isitelworldtravel.agentstudio.com"
+	}]
+}, {
+	"EntryDate": "2016-11-17 09:54:55 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "hotelsbots",
+		"REMOTE_HOST": "207.46.13.34",
+		"URL": "/common/sign-in.html",
+		"HTTP_REFERER": "",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "Keep-Alive",
+		"REQUEST_METHOD": "GET",
+		"HTTP_HOST": "thevacationgeeks.agentstudio.com"
+	}]
+}, {
+	"EntryDate": "2016-11-17 09:57:11 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "hotelsbots",
+		"REMOTE_HOST": "207.46.13.34",
+		"URL": "/common/sign-in.html",
+		"HTTP_REFERER": "",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "Keep-Alive",
+		"REQUEST_METHOD": "GET",
+		"HTTP_HOST": "madrivertravel.agentstudio.com"
+	}]
+}, {
+	"EntryDate": "2016-11-17 10:00:32 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "hotelsbots",
+		"REMOTE_HOST": "207.46.13.34",
+		"URL": "/common/sign-in.html",
+		"HTTP_REFERER": "",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "Keep-Alive",
+		"REQUEST_METHOD": "GET",
+		"HTTP_HOST": "innerlitetravel.agentstudio.com"
+	}]
+}, {
+	"EntryDate": "2016-11-17 10:04:01 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "hotelsbots",
+		"REMOTE_HOST": "207.46.13.34",
+		"URL": "/common/sign-in.html",
+		"HTTP_REFERER": "",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "Keep-Alive",
+		"REQUEST_METHOD": "GET",
+		"HTTP_HOST": "africaspecialistsforbargains.agentstudio.com"
+	}]
+}, {
+	"EntryDate": "2016-11-17 10:43:22 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "pageview",
+		"REMOTE_HOST": "82.80.249.156",
+		"URL": "/attractions/bridgeclimb.html",
+		"HTTP_REFERER": "http://pinittravel.com/destinations/pacific/australia/sydney.html",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36",
+		"QUERY_STRING": "destinationURL=pacific/australia/sydney&destination=Sydney",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "GET",
+		"HTTP_HOST": "pinittravel.com"
+	}]
+}, {
+	"EntryDate": "2016-11-17 11:44:48 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "pageview",
+		"REMOTE_HOST": "82.80.249.192",
+		"URL": "/destinations/middle-east/united-arab-emirates/dubai.html",
+		"HTTP_REFERER": "http://www.globalconnections.travel/promotions/15-night-best-of-india-sri-lanka.html",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "GET",
+		"HTTP_HOST": "globalconnections.travel"
+	}]
+}, {
+	"EntryDate": "2016-11-17 11:49:03 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 13:19:26 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 13:22:13 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 13:24:38 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 13:26:54 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 13:29:11 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 13:30:35 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "testpage",
+		"REMOTE_HOST": "199.91.201.194",
+		"URL": "/test.cfm",
+		"HTTP_REFERER": "",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "keep-alive",
+		"REQUEST_METHOD": "GET",
+		"HTTP_HOST": "sealegstravel.agentstudio.com"
+	}]
+}, {
+	"EntryDate": "2016-11-17 13:31:35 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 13:33:47 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 13:36:00 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 13:38:15 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 13:40:44 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 13:43:21 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 13:46:03 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 13:48:29 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 13:50:49 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 13:53:16 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 13:55:52 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 13:58:29 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 14:01:20 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 14:03:59 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 14:06:32 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 14:08:41 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 14:10:53 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 14:13:14 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 14:15:40 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 14:18:14 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 14:20:50 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 14:23:31 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 14:26:14 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 14:31:21 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "testpage",
+		"REMOTE_HOST": "199.91.201.194",
+		"URL": "/test.cfm",
+		"HTTP_REFERER": "",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "keep-alive",
+		"REQUEST_METHOD": "GET",
+		"HTTP_HOST": "sealegstravel.agentstudio.com"
+	}]
+}, {
+	"EntryDate": "2016-11-17 14:31:40 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 14:34:31 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 14:37:14 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 14:38:04 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "testpage",
+		"REMOTE_HOST": "199.91.201.194",
+		"URL": "/test.cfm",
+		"HTTP_REFERER": "",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "keep-alive",
+		"REQUEST_METHOD": "GET",
+		"HTTP_HOST": "sealegstravel.agentstudio.com"
+	}]
+}, {
+	"EntryDate": "2016-11-17 14:40:03 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 14:42:49 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 14:45:37 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 14:48:16 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 14:50:58 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 14:53:43 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 14:56:31 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 14:59:13 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "quote",
+		"REMOTE_HOST": "45.34.153.162",
+		"URL": "/send-to-a-friend.html",
+		"HTTP_REFERER": "http://forevertravel.co/send-to-a-friend.html?seourl=18-day-rome-to-dubai&DealType=Promotion",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "POST",
+		"HTTP_HOST": "forevertravel.co"
+	}]
+}, {
+	"EntryDate": "2016-11-17 17:00:49 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "hotelsbots",
+		"REMOTE_HOST": "184.154.164.186",
+		"URL": "/hotels-details.html",
+		"HTTP_REFERER": "",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "SiteLockSpider [en] (WinNT; I ;Nav)",
+		"QUERY_STRING": "SearchObject=%7B%22HotelId%22%3A536319%2C%22rooms%22%3A1%2C%22totalChildren%22%3A0%2C%22numberOfResults%22%3A3%2C%22departureDate%22%3A%2211%2F17%2F2016%22%2C%22SortType%22%3A%22PROMO%22%2C%22roomGroup%22%3A%5B%7B%22numberOfChildren%22%3A0%2C%22numberOfAdults%22%3A1%7D%5D%2C%22arrivalDate%22%3A%2211%2F16%2F2016%22%2C%22totalAdults%22%3A1%2C%22regionId%22%3A935%2C%22DestinationString%22%3A%22Cancun%2C%20Quintana%20Roo%2C%20Mexico%22%7D",
+		"HTTP_CONNECTION": "TE, close",
+		"REQUEST_METHOD": "GET",
+		"HTTP_HOST": "www.pinnacletrips.com"
+	}]
+}, {
+	"EntryDate": "2016-11-17 18:05:55 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "hotelsbots",
+		"REMOTE_HOST": "107.6.137.74",
+		"URL": "/hotels-search.html",
+		"HTTP_REFERER": "",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "SiteLockSpider [en] (WinNT; I ;Nav)",
+		"QUERY_STRING": "SearchObject=%7B%22hotelId%22%3A0%2C%22totalChildren%22%3A0%2C%22departureDate%22%3A%2211%2F18%2F2016%22%2C%22roomGroup%22%3A%5B%7B%22numberOfChildren%22%3A0%2C%22numberOfAdults%22%3A1%7D%5D%2C%22arrivalDate%22%3A%2211%2F17%2F2016%22%2C%22regionId%22%3A6151902%2C%22DestinationString%22%3A%22Downtown%20San%20Francisco%2C%20San%20Francisco%2C%20California%2C%20United%20States%20of%20America%22%2C%22currencyCode%22%3A%22USD%22%2C%22rooms%22%3A1%2C%22numberOfResults%22%3A3%2C%22locale%22%3A%22en%5Fus%22%2C%22SortType%22%3A%22PROMO%22%2C%22totalAdults%22%3A1%7D",
+		"HTTP_CONNECTION": "TE, close",
+		"REQUEST_METHOD": "GET",
+		"HTTP_HOST": "pandora.travel"
+	}]
+}, {
+	"EntryDate": "2016-11-17 19:18:16 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "pageview",
+		"REMOTE_HOST": "82.80.249.159",
+		"URL": "/destinations/north-america/united-states.html",
+		"HTTP_REFERER": "http://www.ashtravel.com/destinations/north-america/united-states.html",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36",
+		"QUERY_STRING": "SelectedVideo=d846638d-ef65-e411-95bd-0050568e420d",
+		"HTTP_CONNECTION": "",
+		"REQUEST_METHOD": "GET",
+		"HTTP_HOST": "ashtravel.com"
+	}]
+}, {
+	"EntryDate": "2016-11-17 20:35:38 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "hotelsbots",
+		"REMOTE_HOST": "184.154.36.180",
+		"URL": "/hotels-search.html",
+		"HTTP_REFERER": "",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "SiteLockSpider [en] (WinNT; I ;Nav)",
+		"QUERY_STRING": "",
+		"HTTP_CONNECTION": "TE, close",
+		"REQUEST_METHOD": "GET",
+		"HTTP_HOST": "onthewaytravel.net"
+	}]
+}, {
+	"EntryDate": "2016-11-17 22:15:41 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "pageview",
+		"REMOTE_HOST": "192.3.112.134",
+		"URL": "/news/do-new-hub-plans-foreshadow-a-travel-boom-in-africa.html",
+		"HTTP_REFERER": "",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246",
+		"QUERY_STRING": "ForceDesktopMode=false",
+		"HTTP_CONNECTION": "keep-alive",
+		"REQUEST_METHOD": "GET",
+		"HTTP_HOST": "taylorandcotravel.com"
+	}]
+}, {
+	"EntryDate": "2016-11-17 23:49:46 -05:00",
+	"Level": "WARN",
+	"Message": [{
+		"Rule": "hotelsbots",
+		"REMOTE_HOST": "184.154.139.24",
+		"URL": "/hotels-details.html",
+		"HTTP_REFERER": "",
+		"HTTPS": "off",
+		"HTTP_USER_AGENT": "SiteLockSpider [en] (WinNT; I ;Nav)",
+		"QUERY_STRING": "Display=Rooms&SearchObject=%7B%22HotelId%22%3A198937%2C%22rooms%22%3A1%2C%22totalChildren%22%3A0%2C%22numberOfResults%22%3A3%2C%22departureDate%22%3A%2211%2F18%2F2016%22%2C%22SortType%22%3A%22PROMO%22%2C%22roomGroup%22%3A%5B%7B%22numberOfChildren%22%3A0%2C%22numberOfAdults%22%3A1%7D%5D%2C%22arrivalDate%22%3A%2211%2F17%2F2016%22%2C%22totalAdults%22%3A1%2C%22regionId%22%3A2621%2C%22DestinationString%22%3A%22New%20York%2C%20New%20York%2C%20United%20States%20of%20America%22%7D",
+		"HTTP_CONNECTION": "TE, close",
+		"REQUEST_METHOD": "GET",
+		"HTTP_HOST": "grandvoyagetravel.com"
+	}]
+},

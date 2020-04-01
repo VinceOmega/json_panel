@@ -1,0 +1,526 @@
+{
+    "EntryDate": "2016-11-15 10:01:12 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "ajaxprocessblogcomment",
+        "REMOTE_HOST": "82.80.230.228",
+        "URL": "/request-quote.html",
+        "HTTP_REFERER": "http://dreamtravel4you.com/promotions/christmas-markets-of-strasbourg-and-the-black-forest-2.html",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.59.10 (KHTML, like Gecko) Version/5.1.9 Safari/534.59.10",
+        "QUERY_STRING": "DealURL=christmas-markets-of-strasbourg-and-the-black-forest-2&DealType=Promotion",
+        "HTTP_CONNECTION": "",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "dreamtravel4you.com"
+    }]
+}, {
+    "EntryDate": "2016-11-15 10:01:13 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "ajaxprocesscontactform",
+        "REMOTE_HOST": "82.80.230.228",
+        "URL": "/tours/early-booking-bonus-peak-season-2018-promotion.html",
+        "HTTP_REFERER": "http://dreamtravel4you.com/promotions/17-day-panama-canal-connoisseur.html",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; rv:25.0) Gecko/20100101 Firefox/25.0",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "dreamtravel4you.com"
+    }]
+}, {
+    "EntryDate": "2016-11-15 10:01:13 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "quote",
+        "REMOTE_HOST": "82.80.230.228",
+        "URL": "/tours/early-booking-bonus-peak-season-2018-promotion.html",
+        "HTTP_REFERER": "http://dreamtravel4you.com/promotions/17-day-panama-canal-connoisseur.html",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; rv:25.0) Gecko/20100101 Firefox/25.0",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "dreamtravel4you.com"
+    }]
+}, {
+    "EntryDate": "2016-11-15 10:01:14 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "ajaxprocesssigninnprocesspasswordnprocesssubmitsugession",
+        "REMOTE_HOST": "82.80.230.228",
+        "URL": "/request-quote.html",
+        "HTTP_REFERER": "http://dreamtravel4you.com/cruises/louisville-to-alton-st-louis.html",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.72 Safari/537.36",
+        "QUERY_STRING": "DealURL=louisville-to-alton-st-louis&DealType=Cruise&Dates=7/16/17-7/24/17&Starting=4499",
+        "HTTP_CONNECTION": "",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "dreamtravel4you.com"
+    }]
+}, {
+    "EntryDate": "2016-11-15 10:01:33 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "ajaxprocessblogcomment",
+        "REMOTE_HOST": "78.46.174.55",
+        "URL": "/send-to-a-friend.html",
+        "HTTP_REFERER": "",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (compatible; MegaIndex.ru/2.0; +http://megaindex.com/crawler)",
+        "QUERY_STRING": "seourl=riu-caribe-all-inclusive-8&DealType=Promotion",
+        "HTTP_CONNECTION": "",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "2getawaytravel.com"
+    }]
+}, {
+    "EntryDate": "2016-11-15 10:01:33 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "ajaxclearlogonselectthemes",
+        "REMOTE_HOST": "78.46.174.55",
+        "URL": "/send-to-a-friend.html",
+        "HTTP_REFERER": "",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (compatible; MegaIndex.ru/2.0; +http://megaindex.com/crawler)",
+        "QUERY_STRING": "seourl=riu-caribe-all-inclusive-8&DealType=Promotion",
+        "HTTP_CONNECTION": "",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "2getawaytravel.com"
+    }]
+}, {
+    "EntryDate": "2016-11-15 10:01:39 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "ajaxuploadlogo",
+        "REMOTE_HOST": "208.43.225.84",
+        "URL": "/cruises/11-night-europe-cruise-35.html",
+        "HTTP_REFERER": "",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (compatible; SiteExplorer/1.1b; +http://siteexplorer.info/Backlink-Checker-Spider/)",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "Keep-Alive",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "eratravelusa.com"
+    }]
+}, {
+    "EntryDate": "2016-11-15 10:01:39 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "ajaxprocessblogcomment",
+        "REMOTE_HOST": "208.43.225.84",
+        "URL": "/cruises/11-night-europe-cruise-35.html",
+        "HTTP_REFERER": "",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (compatible; SiteExplorer/1.1b; +http://siteexplorer.info/Backlink-Checker-Spider/)",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "Keep-Alive",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "eratravelusa.com"
+    }]
+}, {
+    "EntryDate": "2016-11-15 10:01:42 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "ajaxuploadlogo",
+        "REMOTE_HOST": "5.9.98.130",
+        "URL": "/tours/great-italian-cities-summer-2017.html",
+        "HTTP_REFERER": "",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (compatible; MegaIndex.ru/2.0; +http://megaindex.com/crawler)",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "countrydavetravel.com"
+    }]
+}, {
+    "EntryDate": "2016-11-15 10:01:42 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "ajaxclearlogonselectthemes",
+        "REMOTE_HOST": "5.9.98.130",
+        "URL": "/tours/great-italian-cities-summer-2017.html",
+        "HTTP_REFERER": "",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (compatible; MegaIndex.ru/2.0; +http://megaindex.com/crawler)",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "countrydavetravel.com"
+    }]
+}, {
+    "EntryDate": "2016-11-15 10:01:50 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "ajaxuploadlogo",
+        "REMOTE_HOST": "94.19.248.201",
+        "URL": "/jakarta/isapi_redirect.dll",
+        "HTTP_REFERER": "http://travelhub.agentstudio.com/planyourtrip.html",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "keep-alive",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "travelhub.agentstudio.com"
+    }]
+}, {
+    "EntryDate": "2016-11-15 10:01:55 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "quote",
+        "REMOTE_HOST": "78.46.174.55",
+        "URL": "/tours/spectacular-bay-of-islands-summer-2017.html",
+        "HTTP_REFERER": "",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (compatible; MegaIndex.ru/2.0; +http://megaindex.com/crawler)",
+        "QUERY_STRING": "ForceDesktopMode=true",
+        "HTTP_CONNECTION": "",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "2getawaytravel.com"
+    }]
+}, {
+    "EntryDate": "2016-11-15 10:01:55 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "signin",
+        "REMOTE_HOST": "78.46.174.55",
+        "URL": "/tours/spectacular-bay-of-islands-summer-2017.html",
+        "HTTP_REFERER": "",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (compatible; MegaIndex.ru/2.0; +http://megaindex.com/crawler)",
+        "QUERY_STRING": "ForceDesktopMode=true",
+        "HTTP_CONNECTION": "",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "2getawaytravel.com"
+    }]
+}, {
+    "EntryDate": "2016-11-15 10:02:01 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "ajaxclearlogonselectthemes",
+        "REMOTE_HOST": "207.46.13.6",
+        "URL": "/tours/sensational-southeast-asia-with-chiang-mai.html",
+        "HTTP_REFERER": "",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "Keep-Alive",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "travelwizards.com"
+    }]
+}, {
+    "EntryDate": "2016-11-15 10:02:01 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "ajaxprocessblogcomment",
+        "REMOTE_HOST": "207.46.13.6",
+        "URL": "/tours/sensational-southeast-asia-with-chiang-mai.html",
+        "HTTP_REFERER": "",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "Keep-Alive",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "travelwizards.com"
+    }]
+}, {
+    "EntryDate": "2016-11-15 10:02:02 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "quote",
+        "REMOTE_HOST": "5.9.98.130",
+        "URL": "/news/weekend-getaways-teddy-bears-on-parade.html",
+        "HTTP_REFERER": "",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (compatible; MegaIndex.ru/2.0; +http://megaindex.com/crawler)",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "worldaccents.com"
+    }]
+}, {
+    "EntryDate": "2016-11-15 10:02:03 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "ajaxclearlogonselectthemes",
+        "REMOTE_HOST": "45.55.147.243",
+        "URL": "/destinations/central-america/belize.html",
+        "HTTP_REFERER": "http://greattime-travel.com/tours/january-sale-2.html",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (compatible; spbot/5.0.3; +http://OpenLinkProfiler.org/bot )",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "close",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "greattime-travel.com"
+    }]
+}, {
+    "EntryDate": "2016-11-15 10:02:03 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "ajaxclearlogonselectthemes",
+        "REMOTE_HOST": "54.183.243.162",
+        "URL": "/jakarta/isapi_redirect.dll",
+        "HTTP_REFERER": "http://go2tanyastravelcom.agentstudio.com/",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 SlimerJS/0.9.5",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "keep-alive",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "go2tanyastravelcom.agentstudio.com"
+    }]
+}, {
+    "EntryDate": "2016-11-15 10:02:03 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "ajaxuploadlogo",
+        "REMOTE_HOST": "54.183.243.162",
+        "URL": "/jakarta/isapi_redirect.dll",
+        "HTTP_REFERER": "http://go2tanyastravelcom.agentstudio.com/",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 SlimerJS/0.9.5",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "keep-alive",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "go2tanyastravelcom.agentstudio.com"
+    }]
+}, {
+    "EntryDate": "2016-11-15 10:02:03 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "ajaxprocessblogcomment",
+        "REMOTE_HOST": "54.183.243.162",
+        "URL": "/jakarta/isapi_redirect.dll",
+        "HTTP_REFERER": "http://go2tanyastravelcom.agentstudio.com/",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 SlimerJS/0.9.5",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "keep-alive",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "go2tanyastravelcom.agentstudio.com"
+    }]
+}, {
+    "EntryDate": "2016-11-15 10:02:10 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "ajaxprocesssigninnprocesspasswordnprocesssubmitsugession",
+        "REMOTE_HOST": "5.9.98.130",
+        "URL": "/news/east-coast-west-coast-choose-a-cruise-and-escape-the-heat.html",
+        "HTTP_REFERER": "",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (compatible; MegaIndex.ru/2.0; +http://megaindex.com/crawler)",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "funnparadise.com"
+    }]
+}, {
+    "EntryDate": "2016-11-15 10:02:12 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "ajaxclearlogonselectthemes",
+        "REMOTE_HOST": "104.193.88.244",
+        "URL": "/cruises/7-night-exotic-eastern-caribbean-5.html",
+        "HTTP_REFERER": "",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "destinationsandbeyond.com"
+    }]
+}, {
+    "EntryDate": "2016-11-15 10:02:12 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "ajaxprocessblogcomment",
+        "REMOTE_HOST": "104.193.88.244",
+        "URL": "/cruises/7-night-exotic-eastern-caribbean-5.html",
+        "HTTP_REFERER": "",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "destinationsandbeyond.com"
+    }]
+}, {
+    "EntryDate": "2016-11-15 10:02:13 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "ajaxclearlogonselectthemes",
+        "REMOTE_HOST": "82.80.230.228",
+        "URL": "/destinations/asia/vietnam.html",
+        "HTTP_REFERER": "http://www.dreamtravel4you.com/cruises/20-night-south-pacific-cruise-3.html",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.72 Safari/537.36",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "www.dreamtravel4you.com"
+    }]
+}, {
+    "EntryDate": "2016-11-15 10:02:13 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "ajaxprocessblogcomment",
+        "REMOTE_HOST": "82.80.230.228",
+        "URL": "/destinations/asia/vietnam.html",
+        "HTTP_REFERER": "http://www.dreamtravel4you.com/cruises/20-night-south-pacific-cruise-3.html",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.72 Safari/537.36",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "www.dreamtravel4you.com"
+    }]
+}, {
+    "EntryDate": "2016-11-15 10:02:14 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "ajaxprocessblogcomment",
+        "REMOTE_HOST": "136.243.172.11",
+        "URL": "/destinations/caribbean/aruba.html",
+        "HTTP_REFERER": "http://echevarriatravel.com/tours/2017-resort-credits-promotion.html",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (compatible; SEOkicks-Robot; +http://www.seokicks.de/robot.html)",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "close",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "echevarriatravel.com"
+    }]
+}, {
+    "EntryDate": "2016-11-15 10:02:14 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "ajaxclearlogonselectthemes",
+        "REMOTE_HOST": "68.234.66.146",
+        "URL": "/assets/fonts/Montserrat-Regular/Montserrat-Regular.eot",
+        "HTTP_REFERER": "http://escapesbyjet.com/",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "Keep-Alive",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "escapesbyjet.com"
+    }]
+}, {
+    "EntryDate": "2016-11-15 10:02:14 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "ajaxuploadlogo",
+        "REMOTE_HOST": "68.234.66.146",
+        "URL": "/assets/fonts/Montserrat-Regular/Montserrat-Regular.eot",
+        "HTTP_REFERER": "http://escapesbyjet.com/",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "Keep-Alive",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "escapesbyjet.com"
+    }]
+}, {
+    "EntryDate": "2016-11-15 10:02:14 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "ajaxprocessblogcomment",
+        "REMOTE_HOST": "68.234.66.146",
+        "URL": "/assets/fonts/Montserrat-Regular/Montserrat-Regular.eot",
+        "HTTP_REFERER": "http://escapesbyjet.com/",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "Keep-Alive",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "escapesbyjet.com"
+    }]
+}, {
+    "EntryDate": "2016-11-15 10:02:16 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "ajaxuploadlogo",
+        "REMOTE_HOST": "109.227.80.222",
+        "URL": "/images/buttons/alert-overlay-dark.png",
+        "HTTP_REFERER": "http://travelhub.agentstudio.com/Themes/Adventure_Outback-Green/css/theme.css?rn=1.1",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Opera/10.00 (Windows NT 6.1; U; Edition Turbo; YB/3.5.1; ru) Presto/2.2.0",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "keep-alive",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "travelhub.agentstudio.com"
+    }]
+}, {
+    "EntryDate": "2016-11-15 10:02:17 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "quote",
+        "REMOTE_HOST": "82.80.230.228",
+        "URL": "/destinations/pacific/australia/melbourne.html",
+        "HTTP_REFERER": "http://www.dreamtravel4you.com/cruises/13-night-world-cruise-cruise-4.html",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "www.dreamtravel4you.com"
+    }]
+}, {
+    "EntryDate": "2016-11-15 10:02:18 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "ajaxclearlogonselectthemes",
+        "REMOTE_HOST": "104.193.88.243",
+        "URL": "/cruises/14-night-carnival-journeys-panama-can.html",
+        "HTTP_REFERER": "",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36",
+        "QUERY_STRING": "ForceDesktopMode=true",
+        "HTTP_CONNECTION": "",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "cintravel.com"
+    }]
+}, {
+    "EntryDate": "2016-11-15 10:02:18 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "ajaxprocessblogcomment",
+        "REMOTE_HOST": "104.193.88.243",
+        "URL": "/cruises/14-night-carnival-journeys-panama-can.html",
+        "HTTP_REFERER": "",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36",
+        "QUERY_STRING": "ForceDesktopMode=true",
+        "HTTP_CONNECTION": "",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "cintravel.com"
+    }]
+}, {
+    "EntryDate": "2016-11-15 10:02:22 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "ajaxprocessinlinecontentediting",
+        "REMOTE_HOST": "82.80.230.228",
+        "URL": "/send-to-a-friend.html",
+        "HTTP_REFERER": "http://www.dreamtravel4you.com/tours/highlights-of-australia-and-new-zealand-summer-2017.html",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20100101 Firefox/33.0",
+        "QUERY_STRING": "seourl=highlights-of-australia-and-new-zealand-summer-2017&DealType=Tour",
+        "HTTP_CONNECTION": "",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "www.dreamtravel4you.com"
+    }]
+}, {
+    "EntryDate": "2016-11-15 10:02:25 -05:00",
+    "Level": "WARN",
+    "Message": [{
+        "Rule": "ajaxclearlogonselectthemes",
+        "REMOTE_HOST": "220.129.62.163",
+        "URL": "/jakarta/isapi_redirect.dll",
+        "HTTP_REFERER": "http://travelhub.agentstudio.com/special-deals.html",
+        "HTTPS": "off",
+        "HTTP_USER_AGENT": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.71 Safari/537.36",
+        "QUERY_STRING": "",
+        "HTTP_CONNECTION": "keep-alive",
+        "REQUEST_METHOD": "GET",
+        "HTTP_HOST": "travelhub.agentstudio.com"
+    }]
+},
